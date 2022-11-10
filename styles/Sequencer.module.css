@@ -1,0 +1,19 @@
+@font-face {
+  font-family: square;
+  src: url("../public/square.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+#arr {
+  font-family: "square";
+  font-size: xx-large;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-items: stretch;
+}
+
+.none {
+  color: green
+}
